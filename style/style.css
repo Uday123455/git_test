@@ -1,0 +1,11 @@
+*{
+    background-color: red;
+
+}
+
+
+navbar{
+    height: 100px;
+    width: device-width;
+    background-color: blue;
+}
